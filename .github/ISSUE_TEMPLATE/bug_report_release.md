@@ -9,10 +9,10 @@ assignees:
 
 **Product:**
 Remoter Version: 
-[ ] iOS Remoter VNC
-[ ] iOS Remoter Pro
-[ ] Mac AppStore
-[ ] Mac Retail
+- [ ] iOS Remoter VNC
+- [ ] iOS Remoter Pro
+- [ ] Mac AppStore
+- [ ] Mac Retail
 
 **Device information:**
  - Device: [e.g. iPhone 16 Pro, M3 Macbook Pro]
