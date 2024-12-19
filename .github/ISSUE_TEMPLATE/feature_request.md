@@ -9,10 +9,10 @@ assignees:
 
 **Product:**
 Remoter Version: [e.g. 6.2.0]
-[ ] iOS Remoter VNC
-[ ] iOS Remoter Pro
-[ ] Mac AppStore
-[ ] Mac Retail
+- [ ] iOS Remoter VNC
+- [ ] iOS Remoter Pro
+- [ ] Mac AppStore
+- [ ] Mac Retail
 
 **Is your feature request related to a problem?**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
